@@ -1,15 +1,13 @@
 <div align="center"><h1>Hi There, I'm Palak 😊</h1></div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:8b5cf6&height=200&section=header&text=Palak%20Rai&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="header"/>
+  <img src="./social.gif" width="350" height="350" alt="social"/>
 </div>
 
 <h3 align="center">Engineering Focused Full Stack Developer</h3>
 
 <div align="center">
-  <a href="https://github.com/palakrai573">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Production+Ready+Web+Platforms;Turning+Ideas+Into+Real+World+Products" alt="Animated terminal summary" width="800" />
-  </a>
+  <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
 </div>
 
 <div align="center">

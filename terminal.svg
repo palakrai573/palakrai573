@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Animated terminal - Aditya Pandey">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Animated terminal - Palak Rai">
   <defs>
     <style>text { font-family: 'JetBrains Mono','Fira Code','Cascadia Code','Menlo',monospace; }</style>
     <clipPath id="clip1">
@@ -28,8 +28,8 @@
 
   <!-- GitHub-style tab bar -->
   <rect x="0" y="0" width="800" height="36" fill="#161b22"/>
-  <text x="36" y="23" font-size="14" font-weight="700" fill="#e6edf3">Aditya060806</text>
-  <text x="152" y="23" font-size="14" fill="#484f58">/ README.md</text>
+  <text x="36" y="23" font-size="14" font-weight="700" fill="#e6edf3">palakrai573</text>
+  <text x="140" y="23" font-size="14" fill="#484f58">/ README.md</text>
 
   <!-- terminal window border and fill -->
   <rect x="16" y="44" width="768" height="548" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
@@ -45,13 +45,13 @@
   <circle cx="68" cy="66" r="7" fill="#e3b341"/>
   <circle cx="92" cy="66" r="7" fill="#3fb950"/>
   <!-- window title -->
-  <text x="400" y="71" font-size="13" text-anchor="middle" fill="#484f58">Aditya060806 - zsh</text>
+  <text x="400" y="71" font-size="13" text-anchor="middle" fill="#484f58">palakrai573 - zsh</text>
 
   <!-- =========================================== -->
   <!-- SECTION 1: whoami  (prompt baseline y=116)  -->
   <!-- =========================================== -->
   <text x="36" y="116" font-size="14">
-    <tspan fill="#3fb950">Aditya060806</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
+    <tspan fill="#bc8cff">palakrai573</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
   </text>
   <text x="229" y="116" font-size="14" font-weight="700" fill="#e6edf3" clip-path="url(#clip1)" opacity="0">whoami
     <animate attributeName="opacity" begin="0.3s" dur="0.001s" values="1;1" fill="freeze"/>
@@ -64,10 +64,10 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="0.9s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="140" font-size="14"><tspan fill="#484f58">name:     </tspan><tspan fill="#e6edf3" font-weight="700">Aditya Pandey</tspan></text>
-    <text x="36" y="162" font-size="14"><tspan fill="#484f58">location: </tspan><tspan fill="#39c5cf" font-weight="700">Chandigarh, India</tspan></text>
-    <text x="36" y="184" font-size="14"><tspan fill="#484f58">web:      </tspan><tspan fill="#58a6ff" font-weight="700">github.com/Aditya060806</tspan></text>
-    <text x="36" y="206" font-size="14"><tspan fill="#484f58">repos: </tspan><tspan fill="#e3b341" font-weight="700">28</tspan><tspan fill="#484f58">   followers: </tspan><tspan fill="#e3b341" font-weight="700">9</tspan><tspan fill="#484f58">   hireable: </tspan><tspan fill="#3fb950" font-weight="700">true</tspan></text>
+    <text x="36" y="140" font-size="14"><tspan fill="#484f58">name:     </tspan><tspan fill="#e6edf3" font-weight="700">Palak Rai</tspan></text>
+    <text x="36" y="162" font-size="14"><tspan fill="#484f58">role:     </tspan><tspan fill="#39c5cf" font-weight="700">Full Stack Developer · AI Enthusiast</tspan></text>
+    <text x="36" y="184" font-size="14"><tspan fill="#484f58">location: </tspan><tspan fill="#39c5cf" font-weight="700">India</tspan></text>
+    <text x="36" y="206" font-size="14"><tspan fill="#484f58">web:      </tspan><tspan fill="#58a6ff" font-weight="700">github.com/palakrai573</tspan></text>
   </g>
 
   <!-- ================================================ -->
@@ -76,7 +76,7 @@
   <g opacity="0">
     <animate attributeName="opacity" begin="2.0s" dur="0.2s" values="0;1" fill="freeze"/>
     <text x="36" y="238" font-size="14">
-      <tspan fill="#3fb950">Aditya060806</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
+      <tspan fill="#bc8cff">palakrai573</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
     </text>
   </g>
   <text x="229" y="238" font-size="14" font-weight="700" fill="#e6edf3" clip-path="url(#clip2)" opacity="0">ls projects/
@@ -90,10 +90,10 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="2.7s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">GigCover/</tspan><tspan fill="#484f58">        JavaScript</tspan></text>
-    <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">KernelKitchen/</tspan><tspan fill="#484f58">   JavaScript</tspan></text>
-    <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">WebScope/</tspan><tspan fill="#484f58">        JavaScript</tspan></text>
-    <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">SugarSense/</tspan><tspan fill="#484f58">      JavaScript</tspan></text>
+    <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">DocIntel-AI/</tspan><tspan fill="#484f58">      Python</tspan></text>
+    <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">SaaS-Platform/</tspan><tspan fill="#484f58">    TypeScript</tspan></text>
+    <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">VisionEngine/</tspan><tspan fill="#484f58">     Python</tspan></text>
+    <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">WebPortfolio/</tspan><tspan fill="#484f58">     JavaScript</tspan></text>
   </g>
 
   <!-- ====================================================== -->
@@ -102,7 +102,7 @@
   <g opacity="0">
     <animate attributeName="opacity" begin="3.6s" dur="0.2s" values="0;1" fill="freeze"/>
     <text x="36" y="362" font-size="14">
-      <tspan fill="#3fb950">Aditya060806</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
+      <tspan fill="#bc8cff">palakrai573</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
     </text>
   </g>
   <text x="229" y="362" font-size="14" font-weight="700" fill="#e6edf3" clip-path="url(#clip3)" opacity="0">cat languages.txt
@@ -121,16 +121,14 @@
       <tspan fill="#484f58">   </tspan>
       <tspan fill="#58a6ff">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">TypeScript</tspan>
       <tspan fill="#484f58">   </tspan>
-      <tspan fill="#bc8cff">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">C++</tspan>
-      <tspan fill="#484f58">   </tspan>
-      <tspan fill="#3fb950">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">C#</tspan>
+      <tspan fill="#3fb950">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Python</tspan>
     </text>
     <text x="36" y="408" font-size="14">
-      <tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Python</tspan>
+      <tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">C++</tspan>
       <tspan fill="#484f58">   </tspan>
-      <tspan fill="#f78166">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">HTML/CSS</tspan>
+      <tspan fill="#f78166">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Java</tspan>
       <tspan fill="#484f58">   </tspan>
-      <tspan fill="#39c5cf">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">Rust</tspan>
+      <tspan fill="#39c5cf">&#x25CF; </tspan><tspan fill="#e6edf3" font-weight="700">HTML/CSS</tspan>
     </text>
   </g>
 
@@ -140,7 +138,7 @@
   <g opacity="0">
     <animate attributeName="opacity" begin="5.0s" dur="0.2s" values="0;1" fill="freeze"/>
     <text x="36" y="444" font-size="14">
-      <tspan fill="#3fb950">Aditya060806</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
+      <tspan fill="#bc8cff">palakrai573</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
     </text>
   </g>
   <text x="229" y="444" font-size="14" font-weight="700" fill="#e6edf3" clip-path="url(#clip4)" opacity="0">git log --oneline --graph
@@ -154,10 +152,10 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="5.8s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">3a1f2b</tspan><tspan fill="#e6edf3" font-weight="700">  feat: add AI resume parser</tspan><tspan fill="#39c5cf">  (GigCover)</tspan></text>
-    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9c4e7d</tspan><tspan fill="#e6edf3" font-weight="700">  feat: improve API caching</tspan><tspan fill="#39c5cf">  (WebScope)</tspan></text>
-    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">2b8f1a</tspan><tspan fill="#e6edf3" font-weight="700">  fix: responsive dashboard layout</tspan><tspan fill="#39c5cf">  (Verivox)</tspan></text>
-    <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">d5a3c0</tspan><tspan fill="#e6edf3" font-weight="700">  init: KernelKitchen core modules</tspan></text>
+    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">3a1f2b</tspan><tspan fill="#e6edf3" font-weight="700">  feat: add RAG document search</tspan><tspan fill="#39c5cf">  (DocIntel-AI)</tspan></text>
+    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9c4e7d</tspan><tspan fill="#e6edf3" font-weight="700">  feat: realtime collaboration</tspan><tspan fill="#39c5cf">  (SaaS-Platform)</tspan></text>
+    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">2b8f1a</tspan><tspan fill="#e6edf3" font-weight="700">  feat: object detection API</tspan><tspan fill="#39c5cf">  (VisionEngine)</tspan></text>
+    <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">d5a3c0</tspan><tspan fill="#e6edf3" font-weight="700">  init: portfolio website</tspan></text>
   </g>
 
   <!-- ================================================= -->
@@ -166,7 +164,7 @@
   <g opacity="0">
     <animate attributeName="opacity" begin="6.8s" dur="0.2s" values="0;1" fill="freeze"/>
     <text x="36" y="570" font-size="14">
-      <tspan fill="#3fb950">Aditya060806</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
+      <tspan fill="#bc8cff">palakrai573</tspan><tspan fill="#58a6ff">@github</tspan><tspan fill="#e6edf3">:~$ </tspan>
     </text>
     <rect x="229" y="557" width="7.8" height="14" rx="1" fill="#e6edf3">
       <animate attributeName="opacity" begin="7.0s" dur="1s" values="1;0;1" repeatCount="indefinite" fill="freeze"/>
