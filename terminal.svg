@@ -90,10 +90,9 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="2.7s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="262" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">DocIntel-AI/</tspan><tspan fill="#484f58">      Python</tspan></text>
-    <text x="36" y="284" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">SaaS-Platform/</tspan><tspan fill="#484f58">    TypeScript</tspan></text>
-    <text x="36" y="306" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">VisionEngine/</tspan><tspan fill="#484f58">     Python</tspan></text>
-    <text x="36" y="328" font-size="14"><tspan fill="#bc8cff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">WebPortfolio/</tspan><tspan fill="#484f58">     JavaScript</tspan></text>
+    <text x="36" y="268" font-size="14"><tspan fill="#e3b341">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">Brutus/</tspan><tspan fill="#484f58">         AI Orchestration Engine</tspan></text>
+    <text x="36" y="296" font-size="14"><tspan fill="#58a6ff">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">Veil/</tspan><tspan fill="#484f58">           Period Tracker · Flutter</tspan></text>
+    <text x="36" y="324" font-size="14"><tspan fill="#3fb950">  &#x25CF; </tspan><tspan fill="#58a6ff" font-weight="700">SkinStock-AI/</tspan><tspan fill="#484f58">   Skin Product Tracker</tspan></text>
   </g>
 
   <!-- ====================================================== -->
@@ -152,9 +151,9 @@
 
   <g opacity="0">
     <animate attributeName="opacity" begin="5.8s" dur="0.2s" values="0;1" fill="freeze"/>
-    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">3a1f2b</tspan><tspan fill="#e6edf3" font-weight="700">  feat: add RAG document search</tspan><tspan fill="#39c5cf">  (DocIntel-AI)</tspan></text>
-    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9c4e7d</tspan><tspan fill="#e6edf3" font-weight="700">  feat: realtime collaboration</tspan><tspan fill="#39c5cf">  (SaaS-Platform)</tspan></text>
-    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">2b8f1a</tspan><tspan fill="#e6edf3" font-weight="700">  feat: object detection API</tspan><tspan fill="#39c5cf">  (VisionEngine)</tspan></text>
+    <text x="36" y="468" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">3a1f2b</tspan><tspan fill="#e6edf3" font-weight="700">  feat: multi-agent task routing</tspan><tspan fill="#39c5cf">  (Brutus)</tspan></text>
+    <text x="36" y="490" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">9c4e7d</tspan><tspan fill="#e6edf3" font-weight="700">  feat: cycle prediction model</tspan><tspan fill="#39c5cf">  (Veil)</tspan></text>
+    <text x="36" y="512" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">2b8f1a</tspan><tspan fill="#e6edf3" font-weight="700">  feat: product scan &amp; tracking</tspan><tspan fill="#39c5cf">  (SkinStock-AI)</tspan></text>
     <text x="36" y="534" font-size="14"><tspan fill="#3fb950">  * </tspan><tspan fill="#e3b341">d5a3c0</tspan><tspan fill="#e6edf3" font-weight="700">  init: portfolio website</tspan></text>
   </g>
 
