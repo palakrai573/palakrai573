@@ -86,11 +86,11 @@
 </td>
 <td width="50%" valign="top">
 
-### ⛓️ Blockchain & Web3
-- **Smart Contracts**: Solidity, Hardhat, Foundry
-- **Libraries**: ethers.js, web3.js, viem
-- **Networks**: Ethereum, Polygon, NEAR
-- **Tools**: IPFS, Chainlink, OpenZeppelin
+### 🗄️ Databases & Tools
+- **SQL**: PostgreSQL, MySQL
+- **NoSQL**: MongoDB, Firebase, Redis
+- **APIs**: REST, GraphQL, WebSockets
+- **Workflow**: Git, GitHub, VS Code, Linux
 
 </td>
 </tr>
@@ -142,18 +142,31 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=palakrai573&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d1117" alt="github stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=palakrai573&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+<a href="https://github.com/palakrai573">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=palakrai573&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117" alt="github stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=palakrai573&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/palakrai573">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakrai573&layout=compact&hide_border=true&langs_count=10&title_color=a78bfa&text_color=c4b5fd&bg_color=0d1117" alt="top languages" />
+</a>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=palakrai573&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" alt="activity graph" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakrai573&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c4b5fd&bg_color=0d1117&langs_count=8" alt="top languages" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=palakrai573&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=palakrai573&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
+
+> [!NOTE]
+> These cards are generated live from GitHub activity and grow over time. If a card briefly shows blank, the rendering service is rate-limited — reload the page in a moment.
 
 ---
 
